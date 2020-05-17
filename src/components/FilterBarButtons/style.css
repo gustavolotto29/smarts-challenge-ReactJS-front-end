@@ -1,0 +1,22 @@
+.filter-info {
+  padding: 30px;
+  border: 20px;
+  margin-left: 50px;
+}
+
+.filter-info a {
+  background: #939;
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 00.2);
+  border-radius: 2px;
+  padding: 20px;
+  color: white;
+}
+
+.filter-info a:hover {
+  background: #7a297a;
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 00.2);
+  border-radius: 2px;
+  padding: 20px;
+  transition: 0.5s;
+  cursor: pointer;
+}
