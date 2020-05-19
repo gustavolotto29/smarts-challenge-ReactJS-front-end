@@ -20,4 +20,10 @@ Ao entrar no sistema ele irá apresentar os Clientes cadastrados, separados por 
 
 ``` Data Fim ``` Faz a ordenção pela data de registro do Cliente. (Data selecionada até o primeiro cadastro);
 
+# Dificuldades
+
+O maior desafio foi construir os filtros da tela, pois eu nunca tinha trabalhado com web antes, mas consegui buscar informações dos meus amigos, internet e cursos e consegui construir.
+
+Outra dificuldade foi o tempo, pois eu não consegui começar o desafio assim que ele foi enviado devido a minha rotina de trabalho e faculdade.
+
 * Para acessar o back-end da aplicação **[clique aqui](https://github.com/gustavolotto29/smarts-challenge-ReactJS-back-end)**
