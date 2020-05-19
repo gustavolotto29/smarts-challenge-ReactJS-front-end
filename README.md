@@ -26,4 +26,6 @@ O maior desafio foi construir os filtros da tela, pois eu nunca tinha trabalhado
 
 Outra dificuldade foi o tempo, pois eu não consegui começar o desafio assim que ele foi enviado devido a minha rotina de trabalho e faculdade.
 
+# Acessar o back-end
+
 * Para acessar o back-end da aplicação **[clique aqui](https://github.com/gustavolotto29/smarts-challenge-ReactJS-back-end)**
